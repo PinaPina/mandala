@@ -1,0 +1,190 @@
+/*
+We highly recommend you use SASS and write your custom styles in sass/_custom.scss.
+However, this blank file is available if you prefer
+*/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext);
+.header{
+
+background-color: #90bcbe;
+}
+.srod{
+background: url("../mandalalogo.png") 50% 50% no-repeat fixed;
+min-height: 700px;
+padding: 0;
+margin: 0;
+width: 100%;
+max-width: 1920px;
+position: relative;
+margin: 0 auto;
+opacity: 2;
+}
+
+section
+{
+	min-height: 600px; 
+
+}
+.bial
+{
+	color: white;
+}
+.tekst
+{
+	margin-top: 250px;
+}
+#mapa{
+		background-image: url("../mapa.png") ;
+	background-repeat: no-repeat;
+
+	    background-position: 30% 15%; 
+	    padding: 100px;
+
+}
+#idea
+{
+	background-color: #90bcbe;
+	background-image: url("../idea.png") ;
+	background-repeat: no-repeat;
+
+	    background-position: center 15%; 
+	    padding: 100px;
+}
+.more
+{
+	text-align: right !important;
+	color: white;
+	text-decoration: underline;
+}
+#jung
+{
+	background-color: #90bcbe;
+	background-image: url("../jung.png") ;
+	background-repeat: no-repeat;
+
+	    background-position: center 15%; 
+	    padding: 100px;
+}
+#gra
+{
+		background-color: #90bcbe;
+	background-image: url("../gra.png") ;
+	background-repeat: no-repeat;
+
+	    background-position: center 15%; 
+	    padding: 100px;
+}
+#postacie
+{
+
+	background-image: url("../postacie.png") ;
+	background-repeat: no-repeat;
+
+	    background-position: center 15%; 
+	    padding: 100px;
+}
+.text1
+{
+	font-size: 23px;
+	text-align: right;
+	padding: 50px;
+	line-height: 40px;
+font-family: 'Open Sans', sans-serif;
+   font-style: italic;
+   margin-top: 400px;
+}
+.grubo
+{
+	font-weight: bolder;
+	font-size: 25px;
+}
+.cgj
+{
+		font-size: 20px;
+}
+.text2 p
+{
+
+		font-size: 20px;
+}
+.r
+{
+	text-align: right !important;
+}
+#lala
+{
+	visibility: hidden;
+}
+.text2
+{
+		margin-top: 50%;
+
+}
+#raz, #dwa, #trzy, #cztery
+{
+	visibility: hidden;
+}
+#section_mandala
+{
+	background-image: url("../uroboros.png") ;
+	background-repeat: no-repeat;
+	background-size: auto 100% ;
+	    background-position: center; 
+}
+.diabel
+{
+		background-image: url("../diaboł.png") ;
+	background-repeat: no-repeat;
+	background-size: auto 80% ;
+	    background-position: right; 
+	    height: 100%;
+}
+.chlopek
+{
+		background-image: url("../chłopek.png") ;
+	background-repeat: no-repeat;
+	background-size: auto 100% ;
+	    background-position: right; 
+	    height: 100%;
+}
+.domek
+{
+		background-image: url("../domek.png") ;
+	background-repeat: no-repeat;
+	background-size: auto 100% ;
+	    background-position: left bottom; 
+	    height: 100%;
+	    overflow: visible !important;
+}
+.dziadek
+{
+		background-image: url("../dziadek.png") ;
+	background-repeat: no-repeat;
+	background-size: auto 100% ;
+	    background-position: left; 
+	    height: 100%;
+}
+.babka
+{
+		background-image: url("../babka.png") ;
+	background-repeat: no-repeat;
+	background-size: auto 100% ;
+	    background-position: left; 
+	    height: auto;
+}
+#manda1{
+
+	    background-image: url("../uroboros.png") ;
+	    	background-repeat: no-repeat;
+background-attachment: fixed;
+	    background-position:140% top; 
+	    background-size:contain;
+}
+.bia{
+	background-color: white;
+}
+.sources
+{
+	padding: 20px;
+		background-color: #90bcbe;
+		color: white;
+}
